@@ -1,0 +1,54 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 10px;
+  color: black;
+}
+
+body{
+  background: black;
+}
+.container{
+  background-color: white;
+  border-radius: 15px;
+  width: 500px;
+  margin: 100px;
+}
+h1{
+  font-size: 4rem;
+
+}
+button{
+  font-size: 1.5rem;
+  margin-top: 5px;
+  border: none;
+  border-radius: 15px;
+
+}
+.add-btn{
+  background-color: green;
+}
+.add-btn:hover{
+  background-color: rgb(4, 198, 4);
+}
+.dlt-btn{
+  background-color: red;
+}
+.dlt-btn:hover{
+  background-color: rgb(179, 9, 9);
+}
+
+
+input{
+  height: 30px;
+  border: 2px solid orange;
+  border-radius: 5px;
+}
+ol{
+  align-items: center;
+}
+li{
+  font-size: 2rem;
+  padding-right: 50px;
+  align-items: center;
+}
